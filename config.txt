@@ -1,0 +1,3 @@
+database=sql
+port=3306
+env=dev
